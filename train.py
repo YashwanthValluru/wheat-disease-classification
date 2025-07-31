@@ -114,8 +114,7 @@ plt.show()
 plt.savefig("loss_plot.png")
 
 # save the model to disk
-moodel.save("model.h5")
-
+moodel.save("model_final.h5")
 f = open("label", "wb")
 f.write(pickle.dumps(lb))
 f.close()

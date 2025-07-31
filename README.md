@@ -2,7 +2,7 @@
 
 
 ## :hourglass: DESCRIPTION
-Task is to detect various wheat diseases using various Deep Learning Models like VGG16, VGG19, ResNet50, etc
+Task is to detect various wheat diseases using various Deep Learning Models like VGG16, ResNet50, etc
 
 
 ## :warning: TECHNOLOGY USED:
